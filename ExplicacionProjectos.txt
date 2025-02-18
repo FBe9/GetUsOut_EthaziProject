@@ -1,0 +1,9 @@
+Projecto Online = Multijugador
+El otro es Single Player
+
+Últimos Acabados, con Laboratorio y pulido de optimización en el single player.
+
+Blocking del laboratorio lo teníamos en el ordenador de Ander que dejo de ir, pero no lo tenemos para la entrega, hemos montado el Lab suelto así que no esta en la escena tampoco.
+
+Hack and Plan:
+https://app.hacknplan.com/p/214099/kanban?categoryId=0&boardId=594306

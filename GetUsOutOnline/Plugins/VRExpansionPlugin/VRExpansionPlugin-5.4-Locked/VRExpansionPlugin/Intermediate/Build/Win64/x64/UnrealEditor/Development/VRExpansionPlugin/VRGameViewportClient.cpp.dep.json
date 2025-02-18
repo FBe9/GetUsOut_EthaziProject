@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\misc\\vrgameviewportclient.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\intermediate\\build\\win64\\x64\\projectovreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\misc\\vrgameviewportclient.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrgameviewportclient.generated.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrgameviewportclient.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

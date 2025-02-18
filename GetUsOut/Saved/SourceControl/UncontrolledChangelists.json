@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/1vrv/Desktop/GetUsOut_EthaziProject/GetUsOut/Content/Levels/Sotano_Blocking.umap",
+				"C:/Users/1vrv/Desktop/GetUsOut_EthaziProject/GetUsOut/Content/Levels/Sotano.umap",
+				"C:/Users/1vrv/Desktop/GetUsOut_EthaziProject/GetUsOut/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/1vrv/Desktop/GetUsOut_EthaziProject/GetUsOut/Content/VRTemplate/Maps/BlockingBueno.umap",
+				"C:/Users/1vrv/Desktop/GetUsOut_EthaziProject/GetUsOut/Content/Blueprints/Interruptor/BP_Lampara.uasset"
+			]
+		}
+	]
+}

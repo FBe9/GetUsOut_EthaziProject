@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenXRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Plugins\VRExpansionPlugin-5.4-Locked (1)\VRExpansionPlugin-5.4-Locked\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionEditor\AnimGraphNode_ApplyOpenXRHandPose.cpp.obj"
+"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Plugins\VRExpansionPlugin-5.4-Locked (1)\VRExpansionPlugin-5.4-Locked\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionEditor\OpenXRExpansionEditor.cpp.obj"
+"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Plugins\VRExpansionPlugin-5.4-Locked (1)\VRExpansionPlugin-5.4-Locked\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionEditor\OpenXRExpansionEditor.init.gen.cpp.obj"
+"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Plugins\VRExpansionPlugin-5.4-Locked (1)\VRExpansionPlugin-5.4-Locked\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\1vrv\Desktop\GetUsOut\Nueva carpeta\GetUsOut\Plugins\VRExpansionPlugin-5.4-Locked (1)\VRExpansionPlugin-5.4-Locked\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionEditor\UnrealEditor-OpenXRExpansionEditor.lib"

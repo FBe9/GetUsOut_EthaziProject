@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\misc\\vrplayerstart.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\intermediate\\build\\win64\\x64\\projectovreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\misc\\vrplayerstart.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationobjectbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstart.generated.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrplayerstart.generated.h",
+            "c:\\users\\1vrv\\desktop\\getusout\\nueva carpeta\\getusout\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrplayerstart.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\billboardcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\billboardcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\misc\\vrgameviewportclient.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\intermediate\\build\\win64\\x64\\projectovr\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\misc\\vrgameviewportclient.h",
+            "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\uht\\vrgameviewportclient.generated.h",
+            "d:\\unreal\\proyecto para pasar\\ramaultima\\getusoutonline\\plugins\\vrexpansionplugin\\vrexpansionplugin-5.4-locked\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\uht\\vrgameviewportclient.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
